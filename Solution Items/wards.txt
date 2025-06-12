@@ -1,0 +1,6 @@
+﻿id	ward_number	department	capacity	available_beds	institution_id
+101	1	терапевтичне	5	2	4
+102	2	терапевтичне	4	3	4
+201	1	психіатричне	3	1	4
+205	5	психіатричне	4	3	4
+310	10	хірургічне	2	1	4
